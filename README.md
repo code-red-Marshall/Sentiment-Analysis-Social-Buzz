@@ -1,9 +1,10 @@
 
+# Accenture Social Media Analysis - Forage
 
 ![i](https://github.com/user-attachments/assets/af53efdf-a243-4be0-ad4d-e8dae61b0bc9)
 
 
-# Social Media Content Analysis Project
+## Social Media Content Analysis Project
 This project focuses on analyzing social media content data to derive insights for content creation strategy. The analysis is performed using Python, leveraging libraries such as pandas, numpy, matplotlib, seaborn, and plotly for data manipulation, analysis, and visualization.
 Data Processing and Cleaning
 
