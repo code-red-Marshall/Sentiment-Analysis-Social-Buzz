@@ -1,5 +1,7 @@
 
-![Screenshot 2023-09-03 234442](https://github.com/user-attachments/assets/fb3e1721-4ee9-4603-ac19-ae4781448b76)
+
+![i](https://github.com/user-attachments/assets/af53efdf-a243-4be0-ad4d-e8dae61b0bc9)
+
 
 ## Social Media Content Analysis Project
 This project focuses on analyzing social media content data to derive insights for content creation strategy. The analysis is performed using Python, leveraging libraries such as pandas, numpy, matplotlib, seaborn, and plotly for data manipulation, analysis, and visualization.
